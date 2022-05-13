@@ -22,7 +22,7 @@ Below is a screen shot of the application in use.
 
 ![downloaded app shown next to the web application](./images/localhost_3000_.png)
 
-The links to the deployed application: https://mighty-brushlands-41033.herokuapp.com// <br/>
+The links to the deployed application: https://mysterious-ocean-76927.herokuapp.com/ <br/>
 The code to this application can be located at: https://github.com/kgiunta/text-editor
 
 ## Credits
